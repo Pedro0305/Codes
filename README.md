@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pedro Costa
+- 👀 I’m interested in Web design, Wed development and data develoment
+- 🌱 I’m currently learning about Web and Database at high scholl
+- 📫 How to reach me ph.costa0305@gmail.com
